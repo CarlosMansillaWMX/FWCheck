@@ -1,7 +1,0 @@
-matplotlib==3.3.4
-pandas==1.2.2
-pc-ble-driver-py==0.15.0
-pyserial==3.5
-click==8.1.2
-intelhex==2.3.0
-nrfutil==6.1.4

@@ -1,2 +1,0 @@
-py -3 .\serial_upgrade.py -2 -p COM12 .\harvard_ship-3.8.0.0-87917cd4fd8109cd7d1359b7766e74cc.bin
-
