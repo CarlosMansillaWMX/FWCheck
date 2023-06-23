@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PackToOrderStrap.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Portname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="testStationNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScriptEnable" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SMFWverRevL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.9.0.0</Value>
+    </Setting>
+    <Setting Name="SMFWverRevG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.8.0.0</Value>
+    </Setting>
+    <Setting Name="MaximFWver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">42.11.7.0</Value>
+    </Setting>
+    <Setting Name="RugglesFWver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.11.2.1</Value>
+    </Setting>
+    <Setting Name="NordicFWVer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">17.2.1.0</Value>
+    </Setting>
+    <Setting Name="PortNRF2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM34</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
